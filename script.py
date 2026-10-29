@@ -10,3 +10,4 @@ class Transaccion:
             id= _self.id
             number = _self.number
             nombre = _self.nombre
+            
